@@ -8,7 +8,7 @@ namespace CineBackEnd.Entidades
 {
     public class Actores
     {
-        public int Id { get; set; }
+        public int ID { get; set; }
 
         public string Nombre { get; set; }
 
